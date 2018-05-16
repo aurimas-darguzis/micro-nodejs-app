@@ -1,0 +1,24 @@
+{
+  "name": "micro-nodejs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurimas-darguzis/micro-nodejs-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aurimas-darguzis/micro-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/aurimas-darguzis/micro-nodejs-app#readme",
+  "dependencies": {
+    "level": "^3.0.1",
+    "micro": "^9.3.1",
+    "then-levelup": "^1.0.2"
+  }
+}
